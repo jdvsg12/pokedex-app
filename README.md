@@ -62,8 +62,8 @@ El proyecto se ejecutará en [http://localhost:5173](http://localhost:5173)
 
 ## 📱 Vista previa de la aplicación
 
-![Vista previa de la aplicación](./Grid.png)
-![Vista previa de la aplicación](./List.png)
+![Vista previa de la aplicación](./src/docs/images/Grid.png)
+![Vista previa de la aplicación](./src/docs/images/List.png)
 
 *Captura de pantalla de la aplicación en funcionamiento*
 
