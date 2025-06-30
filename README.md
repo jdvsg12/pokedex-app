@@ -145,7 +145,7 @@ export default tseslint.config([
 
 ## 🛠️ Tecnologías utilizadas
 
-- **React 18** - Biblioteca de JavaScript para construir interfaces de usuario
+- **React 19** - Biblioteca de JavaScript para construir interfaces de usuario
 - **TypeScript** - Superset de JavaScript con tipado estático
 - **Vite** - Herramienta de construcción rápida para proyectos web modernos
 - **ESLint** - Herramienta de análisis de código estático
